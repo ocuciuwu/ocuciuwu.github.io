@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ocuciuwu.github.io/KAs/sitemap_index.txt.gz
+Sitemap: https://ocuciuwu.github.io/Nsf/sitemap_index.txt.gz
+Sitemap: https://ocuciuwu.github.io/VaB/sitemap_index.txt.gz
+Sitemap: https://ocuciuwu.github.io/Zhf/sitemap_index.txt.gz
+Sitemap: https://ocuciuwu.github.io/lcm/sitemap_index.txt.gz
